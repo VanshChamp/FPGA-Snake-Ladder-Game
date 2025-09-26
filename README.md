@@ -28,11 +28,8 @@ FPGA PIN Assignment.pdf: The pin assignments used for implementation on the FPGA
 README.md: This file, providing an overview and details of the project.
 
 ## How to Run the Project
-Clone the Repository:
 
-git clone [Your Repository URL]
-
-Open in IDE: Open the Verilog files in an FPGA development environment like Intel Quartus Prime or Xilinx Vivado.
+Open in IDE: Open the Verilog files in Intel Quartus Prime.
 
 Synthesize and Implement: Use the provided pin assignments to synthesize and program the Verilog design onto a compatible FPGA board.
 
